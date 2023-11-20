@@ -45,7 +45,7 @@ After opening a new ticket, you'll see Contact Information, Help Topic, and Tick
 <img src="https://i.imgur.com/vmL0zML.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When we submitted our ticket for a password reset, this is what the Support Desk Technician sees. 
+When we submitted our ticket for a password reset, this is what the Support Desk Technician sees. As you can probably tell, the information we provided as Jane is here. 
 </p>
 <br />
 
@@ -53,7 +53,7 @@ When we submitted our ticket for a password reset, this is what the Support Desk
 <img src="https://i.imgur.com/y5mo4l2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here you can see all the changes that were made to Jane's ticket. John assigned it to himself, changed the SLA, and altered the priority level of the ticket. After making all those changes, John responds to Jane to let her know that her password will be reset soon.
 </p>
 <br />
 
@@ -61,6 +61,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/Ka8m8mO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally, after successfully resetting Jane's password John reaches back out to let Jane know and closes the ticket. 
 </p>
 <br />
